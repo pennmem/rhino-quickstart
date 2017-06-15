@@ -6,6 +6,7 @@ Guide and scripts for new users to get started with the CML cluster.
 
 1. Clone this repository: `git clone https://github.com/pennmem/rhino-quickstart.git`
 2. Run the script: `./quickstart.sh`
+3. Log out and back in (or `source ~/.bashrc`)
 
 ### What does it do?
 
